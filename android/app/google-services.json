@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "42762889166",
+    "firebase_url": "https://gamigedara-restaurant-default-rtdb.firebaseio.com",
+    "project_id": "gamigedara-restaurant",
+    "storage_bucket": "gamigedara-restaurant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42762889166:android:45669a0bf3677f92ca2d9f",
+        "android_client_info": {
+          "package_name": "net.softmint.gamigedara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42762889166-1hofcs9j5ob1pgvvilbcn6qjrkjulv3k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.softmint.gamigedara",
+            "certificate_hash": "0be8e73fba58144dc3822fa49765fd0fddf2fbd3"
+          }
+        },
+        {
+          "client_id": "42762889166-l8m7rf61k794dni0jqcmo056q949t71l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.softmint.gamigedara",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "42762889166-vnosggpvb45n3559r6uc5l4gln5gq3vb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.softmint.gamigedara",
+            "certificate_hash": "9cdcdbba03c5a6330c976e0a5f5ac5780d7f950c"
+          }
+        },
+        {
+          "client_id": "42762889166-a402k9po3b12ee5q37ne0fe1pbtdecv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrcBilT0Bojm2bjtqY4-DoXbG-jvebSaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42762889166-a402k9po3b12ee5q37ne0fe1pbtdecv8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "42762889166-4c4ecn0er19oc3qfi5f9rr6c388kj4o0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.softmint.gamigedara"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42762889166:android:9bdf9f803b79efefca2d9f",
+        "android_client_info": {
+          "package_name": "net.softmint.gamigedaradriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42762889166-290lrt7qqdrbg20cn110uaf8q9mrqsfc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.softmint.gamigedaradriver",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "42762889166-a402k9po3b12ee5q37ne0fe1pbtdecv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrcBilT0Bojm2bjtqY4-DoXbG-jvebSaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42762889166-a402k9po3b12ee5q37ne0fe1pbtdecv8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "42762889166-4c4ecn0er19oc3qfi5f9rr6c388kj4o0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.softmint.gamigedara"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42762889166:android:99e9e286ad9d3ff8ca2d9f",
+        "android_client_info": {
+          "package_name": "net.softmint.gamigedaramerchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42762889166-87hgskdlqjniaopu1bc9ehnk1nfeudvr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.softmint.gamigedaramerchant",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "42762889166-a402k9po3b12ee5q37ne0fe1pbtdecv8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrcBilT0Bojm2bjtqY4-DoXbG-jvebSaw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42762889166-a402k9po3b12ee5q37ne0fe1pbtdecv8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "42762889166-4c4ecn0er19oc3qfi5f9rr6c388kj4o0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.softmint.gamigedara"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
