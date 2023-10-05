@@ -22,11 +22,3 @@ buildscript {
         // classpath 'com.android.tools.build:gradle:4.2.1'
     }
 }
-allprojects {
-    repositories {
-        mavenLocal()
-        maven {
-            url  'https://repo.repsy.io/mvn/payhere/payhere-mobilesdk-android/'
-        }
-    }
-}

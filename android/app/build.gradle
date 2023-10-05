@@ -73,9 +73,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "net.softmint.gamigedara"
+    namespace "net.softmint.onemankitchen"
     defaultConfig {
-        applicationId "net.softmint.gamigedara"
+        applicationId "net.softmint.onemankitchen"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

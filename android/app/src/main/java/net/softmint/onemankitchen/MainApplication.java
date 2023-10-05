@@ -1,4 +1,4 @@
-package net.softmint.gamigedara;
+package net.softmint.onemankitchen;
 
 import android.app.Application;
 import com.facebook.react.PackageList;

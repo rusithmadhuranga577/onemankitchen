@@ -26,7 +26,7 @@ class OrderStatus extends React.Component{
             type: 'mipmap',
         },
         color: '#fff',
-        linkingURI: 'gamigedara://', // See Deep Linking for more info
+        linkingURI: 'onemankitchen://', // See Deep Linking for more info
     }
 
     constructor(props) {

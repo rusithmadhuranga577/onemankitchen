@@ -137,7 +137,7 @@ const Home =() => {
           <Text style={[styles.latestoffertext, {marginTop : 15, marginLeft : 10, fontSize : 18}]}>{Languages.WhatWouldYouLike}</Text>
         </View>
         <Categories/>
-        <CategoriesList/>
+        {/* <CategoriesList/> */}
         <View>
           <Text style={[styles.latestoffertext, {marginBottom : 10, marginTop : 30}]}>{Languages.BestOffers}</Text>
         </View>

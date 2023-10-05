@@ -19,7 +19,7 @@ import OrderTypeOptions from './OderTypeOptions/index';
 import axios from 'axios';
 import { showMessage } from "react-native-flash-message";
 import { Service } from '@notificationservice';
-import PayHere from '@payhere/payhere-mobilesdk-reactnative';
+// import PayHere from '@payhere/payhere-mobilesdk-reactnative';
 
 const QueryString = require('query-string');
 
@@ -263,12 +263,12 @@ const CartPage = () => {
         };
 
         if(paymentmethod == 'CARD'){
-            PayHere.startPayment(
-                paymentObject, 
-                (paymentId) => {PostOrder(paymentId, 1)},
-                (errorData) => {console.log("Payment Error", errorData)},
-                () => {console.log("Payment Dismissed")}
-            );
+            // PayHere.startPayment(
+            //     paymentObject, 
+            //     (paymentId) => {PostOrder(paymentId, 1)},
+            //     (errorData) => {console.log("Payment Error", errorData)},
+            //     () => {console.log("Payment Dismissed")}
+            // );
         }else{
             PostOrder('', 0)
         }

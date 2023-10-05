@@ -1,4 +1,4 @@
-package net.softmint.gamigedara;
+package net.softmint.onemankitchen;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
@@ -13,7 +13,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "Gamigedara Restaurant";
+    return "One Man Kitchen";
   }
 
   /**

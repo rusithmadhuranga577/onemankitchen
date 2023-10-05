@@ -39,7 +39,7 @@ const Login =() => {
   }
 
   const ContinueAsGuestFunction = () => {
-    AsyncStorage.setItem('email', 'guest@mrpicker.lk');
+    AsyncStorage.setItem('email', '');
     AsyncStorage.setItem('userid', '0');
     AsyncStorage.setItem('fname', 'Guest');
     AsyncStorage.setItem('lname', 'User');

@@ -60,8 +60,8 @@ const App= () => {
       const granted = await PermissionsAndroid.request(
         PermissionsAndroid.PERMISSIONS.ACCESS_FINE_LOCATION,
         {
-          'title': 'Gamigedara Restaurant',
-          'message': 'Gamigedara Restaurant need access to your location '
+          'title': 'One Man Kitchen',
+          'message': 'One Man Kitchen need access to your location '
         }
       )
       if (granted === PermissionsAndroid.RESULTS.GRANTED) {

@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>Gamigedara Restaurant</string>
+	<string>One Man Kitchen</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -89,6 +89,6 @@
 		<string>Fontisto.ttf</string>
 	</array>
 	<key>NSLocationWhenInUseUsageDescription</key>
-  	<string>Gamigedara needs your location permission for get your delivery location</string>
+  	<string>One Man Kitchen needs your location permission for get your delivery location</string>
 </dict>
 </plist>

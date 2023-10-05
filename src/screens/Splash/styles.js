@@ -10,11 +10,11 @@ const styles = StyleSheet.create({
     halfround : {
         height: '70%',
         width: '150%',
-        backgroundColor: Colors.white,
+        backgroundColor: Colors.primary,
         elevation: 10,
         borderBottomLeftRadius: 300,
         borderBottomRightRadius: 300,
-        borderColor: Colors.secondary,
+        borderColor: Colors.white,
         borderWidth: 12,
         alignSelf: 'center',
         position: 'absolute',

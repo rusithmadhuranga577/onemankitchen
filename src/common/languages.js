@@ -1,7 +1,7 @@
 // /** @format */
 
 // export default {
-//     RestaurantName : 'Gamigedara Restaurant',
+//     RestaurantName : 'onemankitchen',
 //     RestaurantAddress : 'no.50 Kurunegala-Narammala-Madampe Rd, Kurunegala 60000',
 
 //     // Common words
@@ -280,8 +280,8 @@
 /** @format */
 
 export default {
-    RestaurantName : 'Gamigedara Restaurant',
-    RestaurantAddress : 'no.50 Kurunegala-Narammala-Madampe Rd, Kurunegala 60000',
+    RestaurantName : 'One Man Kitchen',
+    RestaurantAddress : '256/5 Kandy Rd, Kurunegala 60000',
 
     // Common words
     Ok : 'Ok',
@@ -554,7 +554,7 @@ export default {
     PaymentMethod : 'Payment Method',
     Cash : 'Cash',
     CancelOrder : 'Cancel Order',
-    IfYouWantToCancelThisOrder : `If you want to cancel this order please contact Gamigedara Support`,
+    IfYouWantToCancelThisOrder : `If you want to cancel this order please contact onemankitchen Support`,
     CancelThisOrder : 'Cancel This Order ?',
 
     //Restaurant List 

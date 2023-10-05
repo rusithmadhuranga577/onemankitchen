@@ -5,7 +5,7 @@ import { Linking } from 'react-native';
 class NotificationHandler {
   onNotification(notification) {
     console.log('NotificationHandler:', notification);
-    // Linking.openURL('gamigedara://');
+    // Linking.openURL('onemankitchen://');
     console.log('new notification')
     if (typeof this._onNotification === 'function') {
       this._onNotification(notification);

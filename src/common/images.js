@@ -1,7 +1,7 @@
 /**@format */
 
 const Images = {
-    SplashBg : require('@images/splash.jpeg'),
+    SplashBg : require('@images/splash.png'),
     // SplashTop : require('@images/splashtop.png'),
     GoogleIcon : require('@images/buttonimages/google.png'),
     AppleIcon : require('@images/buttonimages/appleicon.png'),

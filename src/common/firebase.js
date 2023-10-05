@@ -3,13 +3,13 @@ import "@react-native-firebase/auth";
 
   if(!firebase.apps.length){
     var firebaseConfig = {
-        apiKey: "AIzaSyBrcBilT0Bojm2bjtqY4-DoXbG-jvebSaw",
-        authDomain: "gamigedara-restaurant.firebaseapp.com",
-        databaseURL: "https://gamigedara-restaurant.firebaseio.com",
-        projectId: "gamigedara-restaurant",
-        storageBucket: "gamigedara-restaurant.appspot.com",
-        messagingSenderId: "42762889166",
-        appId: "1:42762889166:android:45669a0bf3677f92ca2d9f",
+        apiKey: "AIzaSyDTzNF8mdK9k2AZSdgfPgmpS1qRZqNgJ_0",
+        authDomain: "one-man-kitchen-f30ad.firebaseapp.com",
+        databaseURL: "https://one-man-kitchen-f30ad.firebaseio.com",
+        projectId: "one-man-kitchen-f30ad",
+        storageBucket: "one-man-kitchen-f30ad.appspot.com",
+        messagingSenderId: "60889075223",
+        appId: "1:60889075223:android:4c19d8a14e03bdb9ee5652",
     };
     firebase.initializeApp(firebaseConfig);
     firebase.firestore();

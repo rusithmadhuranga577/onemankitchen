@@ -8,7 +8,7 @@ PushNotification.configure({
 
   onNotification: function (notification) {
     console.log("NOTIFICATION:", notification);
-    Linking.openURL('gamigedara://');
+    Linking.openURL('onemankitchen://');
     console.log('new notification')
   },
 
